@@ -12,20 +12,20 @@ We welcome contributions from the community! Here's how you can get involved:
 
 Here's what we're planning for the future:
 
-- [Feature or enhancement 1]
-- [Feature or enhancement 2]
-- [And so on...]
+- [Aspiring web developers]
+- [More women in coding]
+- [ Make a unicorn business of this ]
 
 ## Community and Support
 
-Need help? Have questions? Want to chat? Join our [Community](link to community platform) or reach out to us at [email or contact details].
+Need help? Have questions? Want to chat? Join our [LOVE FOR CODES](JOIN GROUP NOW NOW!) or reach out to us at [codingislove@gmail.com].
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [BHAVIKA] - see the [LICENSE) file for details.
 
 ## Acknowledgments
 
-We'd like to express our gratitude to [mention any contributors, libraries, or inspirations].
+We'd like to express our gratitude to [MOTHER AND SCHOOL MENTORS].
 
 Happy coding! 🚀
