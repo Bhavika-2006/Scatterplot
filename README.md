@@ -26,6 +26,6 @@ This project is licensed under the [BHAVIKA] - see the [LICENSE) file for detail
 
 ## Acknowledgments
 
-We'd like to express our gratitude to [MOTHER AND SCHOOL MENTORS].
+We'd like to express our gratitude to [MY MOTHER AND SCHOOL MENTORS].
 
 Happy coding! 🚀
