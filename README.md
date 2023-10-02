@@ -4,9 +4,9 @@
 
 We welcome contributions from the community! Here's how you can get involved:
 
-- 🐛 [Report bugs](https://github.com/yourusername/yourproject/issues)
-- 🌟 [Suggest new features](https://github.com/yourusername/yourproject/issues)
-- 👩‍💻 [Submit pull requests](https://github.com/yourusername/yourproject/pulls)
+- 🐛 [Report bugs](https://www.hotjar.com/website-problems/bugs/)
+- 🌟 [Suggest new features](https://www.javatpoint.com/git)
+- 👩‍💻 [Submit pull requests](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/checking-out-pull-requests-locally)
 
 ## Roadmap
 
